@@ -136,7 +136,7 @@ class _MyHomePageState extends State<MyHomePage> {
           style: style,
           decoration: InputDecoration(
               contentPadding: EdgeInsets.fromLTRB(20.0, 15.0, 20.0, 15.0),
-              hintText: "Password",//Pass1
+              hintText: "Password",//Pass12
               border:
                   OutlineInputBorder(borderRadius: BorderRadius.circular(32.0))),
         );
